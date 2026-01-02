@@ -13,8 +13,9 @@ I also create content and share knowledge on **software development, SaaS, and t
 ## 🌐 Where to find me
 
 <p align="left">
-  <a href="https://github.com/imgoodok">
-    <img src="https://img.shields.io/badge/GitHub-imgoodok-181717?style=for-the-badge&logo=github" />
+  <a href="https://www.linkedin.com/in/hugoodev">
+    <img src="[https://img.shields.io/badge/GitHub-imgoodok-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hugoodev/)" />
+    
   </a>
 </p>
 
@@ -23,7 +24,6 @@ I also create content and share knowledge on **software development, SaaS, and t
 ## 🧠 What I do
 
 -   🏗️ SaaS & High-scale systems
--   ⚡ Performance optimization
 -   🧩 Clean architecture & system design
 -   🔐 Secure APIs & authentication
 -   💳 Payments, subscriptions & business logic
