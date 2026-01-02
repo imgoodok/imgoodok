@@ -14,7 +14,7 @@ I also create content and share knowledge on **software development, SaaS, and t
 
 <p align="left">
   <a href="https://www.linkedin.com/in/hugoodev">
-    <img src="[https://img.shields.io/badge/GitHub-imgoodok-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hugoodev/)" />
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hugoodev/" />
     
   </a>
 </p>
